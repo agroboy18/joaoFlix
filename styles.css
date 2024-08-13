@@ -1,0 +1,49 @@
+body {
+    color: white;
+    background-color: black ;
+    margin: 0px ;
+    font-family: "Inter", sans-serif;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(21, 179, 154);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(248, 0, 0);
+
+
+}
+.video-principal{
+    background-color: rgb(255, 174, 0);
+   padding-bottom: 20px;
+   padding-top: 20px;
+   display: flex;
+   justify-content: center;
+}
+.primeiro-texto{ 
+    margin-right: 5%;
+    text-align: center;
+}
+
+h1{
+    font-size: 25px;
+}
+img{
+    height: 150px;
+}
+
+.videos{
+    display: flex;
+    overflow-x:auto;
+    gap: 20px;
+}
+
+
+.videos{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: black;
+}
+
+
